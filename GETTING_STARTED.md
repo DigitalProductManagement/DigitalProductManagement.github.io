@@ -112,12 +112,12 @@ Product teams use issues to log bugs, request features, and track tasks. You wil
 
 Before our first weekend session kicks off, make sure you have checked off the following items:
 
-[ ] I have installed Discord, VS Code, and Git locally.
-[ ] I have joined the EBS Digital Product Management MBA Discord Server.
-[ ] I have a GitHub account linked with my `@ebs.ee` student email.
-[ ] I have created a private repository named `dpm-learning-reflection`.
-[ ] I have successfully cloned the repo, modified the README locally, and pushed it back to GitHub.
-[ ] I am ready to build products!
+- [ ] I have installed Discord, VS Code, and Git locally.
+- [ ] I have joined the EBS Digital Product Management MBA Discord Server.
+- [ ] I have a GitHub account linked with my `@ebs.ee` student email.
+- [ ] I have created a private repository named `dpm-learning-reflection`.
+- [ ] I have successfully cloned the repo, modified the README locally, and pushed it back to GitHub.
+- [ ] I am ready to build products!
 
 *See you on Discord and in the first module sprint!*
 

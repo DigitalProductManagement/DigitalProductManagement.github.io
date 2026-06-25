@@ -53,11 +53,9 @@ The programme is delivered over four sequential, high-intensity Micro-credential
 ---
 
 ## Upcoming Cohort Milestones
-*Keep an eye on the immediate horizon.*
-
-[ ] **Before Day 1:** Complete all setup steps in the [Day 0 Installation Guide](./GETTING_STARTED.md).
-[ ] **Before Day 1:** Join the official **Discord Server** and drop an introduction in the `#introductions` channel.
-[ ] **Module I Kick-off:** First intensive weekend session at the EBS campus.
+- [ ] **Before Day 1:** Complete all setup steps in the [Day 0 Installation Guide](./GETTING_STARTED.md).
+- [ ] **Before Day 1:** Join the official **Discord Server** and drop an introduction in the `#introductions` channel.
+- [ ] **Module I Kick-off:** First intensive weekend session at the EBS campus.
 
 ---
 ## Structure of this website
