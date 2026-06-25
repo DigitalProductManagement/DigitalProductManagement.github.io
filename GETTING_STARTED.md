@@ -1,4 +1,4 @@
-# 🚀 Getting Started: Digital Product Management MBA Onboarding Guide
+# Getting Started: Digital Product Management MBA Onboarding Guide
 
 Welcome to the **Digital Product Management MBA** at Estonian Business School! Over the coming semesters, you will transition from thinking like a student to operating like a modern tech industry leader.
 
@@ -11,7 +11,7 @@ To level the playing field, we start our journey using the **"Startup Stack"** c
 
 ---
 
-## 💻 1. Setting Up Your Computer
+## 1. Setting Up Your Computer
 
 A product manager’s laptop is their primary leverage tool. Ensure your operating system is fully up to date and that your machine has at least 16GB of RAM to handle multiple browser layers, local AI tools, and code environments simultaneously.
 
@@ -35,7 +35,7 @@ Git tracks changes in files and coordinates work on those files among multiple p
 
 ---
 
-## 🛠️ 2. Getting Started with GitHub.com
+## 2. Getting Started with GitHub.com
 
 GitHub is where your product's code, strategy, task management, and documentation will live during the Autumn semester.
 
@@ -62,7 +62,7 @@ To get graded and receive feedback on your assignments, you must grant access to
 
 ---
 
-## 🔄 3. Your Local-to-Remote Git Workflow
+## 3. Your Local-to-Remote Git Workflow
 
 Now, let's connect your local computer to your cloud-based GitHub account so you can do your assignments locally and back them up to the cloud.
 
@@ -86,7 +86,7 @@ Every time you complete a homework task or modify a file, you follow this exact 
 
 ---
 
-## 📝 4. Managing Documentation & Learning Reflections
+## 4. Managing Documentation & Learning Reflections
 
 As a Product Manager, documentation is your superpower. We will use two core features of GitHub to document our thinking and interact as a product team:
 
@@ -108,16 +108,16 @@ Product teams use issues to log bugs, request features, and track tasks. You wil
 
 ---
 
-## 🎯 Next Steps Checklist
+## Next Steps Checklist
 
 Before our first weekend session kicks off, make sure you have checked off the following items:
 
-- [ ] I have installed Discord, VS Code, and Git locally.
-- [ ] I have joined the EBS Digital Product Management MBA Discord Server.
-- [ ] I have a GitHub account linked with my `@ebs.ee` student email.
-- [ ] I have created a private repository named `dpm-learning-reflection`.
-- [ ] I have successfully cloned the repo, modified the README locally, and pushed it back to GitHub.
-- [ ] I am ready to build products!
+[ ] I have installed Discord, VS Code, and Git locally.
+[ ] I have joined the EBS Digital Product Management MBA Discord Server.
+[ ] I have a GitHub account linked with my `@ebs.ee` student email.
+[ ] I have created a private repository named `dpm-learning-reflection`.
+[ ] I have successfully cloned the repo, modified the README locally, and pushed it back to GitHub.
+[ ] I am ready to build products!
 
 *See you on Discord and in the first module sprint!*
 

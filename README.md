@@ -1,8 +1,7 @@
-# 🧭 Digital Product Management MBA
+# Digital Product Management MBA
 
 Welcome to the central information hub of the EBS Digital Product Management MBA. This repository is your absolute **Single Source of Truth (SSOT)** for schedules, tool ecosystems, templates, and program expectations.
 
-> [!IMPORTANT]
 > **The Digital Product Management MBA Mission:** The mission of the Digital Product Management MBA at EBS University is to empower experienced professionals and team leaders to build, develop, and lead digital products, turning technology into real business value. The programme is dedicated to providing a structured, practical, and strategic approach to product development, enabling students to transform ideas into viable, user-centric solutions.
 
 ## Aims of the Digital Product Management MBA
@@ -12,32 +11,32 @@ Welcome to the central information hub of the EBS Digital Product Management MBA
 
 ---
 
-## ⚡ Quick Access Dashboard
+## Quick Access Dashboard
 *Save time. Access your daily operational layers instantly.*
 
-| 🖥️ Learning & Grading                                                                         | 📅 Master Timetable                                                                                                                             | 💬 Real-Time Chat                                                                                           |
+| Learning & Grading                                                                         | Master Timetable                                                                                                                             | Real-Time Chat                                                                                           |
 |:----------------------------------------------------------------------------------------------|:------------------------------------------------------------------------------------------------------------------------------------------------|:------------------------------------------------------------------------------------------------------------|
 | [**Canvas LMS**](https://ebs.instructure.com/) <br> *Official syllabus, assignments, grades.* | [**TimeEdit Schedule**](https://cloud.timeedit.net/ebs/web/public1/ri167wYQ57YZ55QYwZW7161Xy15QQ.html) <br> *Live updates on rooms, and dates.* | [**Discord Server**] <br> *Daily chats, standups and peer help.* <br> *(Lin sent in your onboarding email)* |
 
 ---
 
-## 🛠️ Onboarding & Workspace Setup
+## Onboarding & Workspace Setup
 Before your first day of class, you must configure your local and cloud environments.
 
 ### 👉 [NEW STUDENTS: Read the Day 0 Installation Guide](./GETTING_STARTED.md)
 *Click the link above to learn how to set up your local Git, VS Code, Discord, and initialize your private GitHub repository.*
 
-### 🧭 Choose Your Tool Ecosystem Path
+### Choose Your Tool Ecosystem Path
 Depending on your current company context or future career objectives, you will choose one of these technical tracks during the programme:
 * 🚀 **The Startup Track Workspace Guide:** Built around GitHub, GitHub Projects, GitHub Pages, and Lovable.ai.
 * 🏢 **The Corporate Track Workspace Guide:** Built around Jira Software, Confluence, Bitbucket, and Jira Product Discovery.
 
 ---
 
-## 📚 Curriculum Structure & Micro-credentials
+## Curriculum Structure & Micro-credentials
 The programme is delivered over four sequential, high-intensity Micro-credentials. You can review the official university competency profiles and course outlines below:
 
-* 📄 **[Official Programme Overview & Details](https://www.ebs.ee/en/university/masters-studies/digital-product-management-mba)**
+* **[Official Programme Overview & Details](https://www.ebs.ee/en/university/masters-studies/digital-product-management-mba)**
 
 ### 🍁 Autumn Semester (Building the Core)
 * **[Microdegree No. 1: Digital Product Discovery and Strategy](https://www.ebs.ee/en/continuing-education/microdegrees/digital-product-discovery-and-strategy)**
@@ -53,12 +52,12 @@ The programme is delivered over four sequential, high-intensity Micro-credential
 
 ---
 
-## 📅 Upcoming Cohort Milestones
+## Upcoming Cohort Milestones
 *Keep an eye on the immediate horizon.*
 
-- [ ] **Before Day 1:** Complete all setup steps in the [Day 0 Installation Guide](./GETTING_STARTED.md).
-- [ ] **Before Day 1:** Join the official **Discord Server** and drop an introduction in the `#introductions` channel.
-- [ ] **Module I Kick-off:** First intensive weekend session at the EBS campus.
+[ ] **Before Day 1:** Complete all setup steps in the [Day 0 Installation Guide](./GETTING_STARTED.md).
+[ ] **Before Day 1:** Join the official **Discord Server** and drop an introduction in the `#introductions` channel.
+[ ] **Module I Kick-off:** First intensive weekend session at the EBS campus.
 
 ---
 ## Structure of this website
@@ -95,15 +94,12 @@ digitalproductmanagement.github.io/
 ## 👥 Faculty & Program Support
 If you run into architectural, academic, or technical issues, reach out to the following team members:
 
-* **Programme Lead:** Marko Rillo | [marko.rillo@ebs.ee](mailto:marko.rillo@ebs.ee)
+* **Programme Lead:** Marko Rillo: 
 * **Microdegree no.1 Lead:** Anna-Liisa Reinson
 * **Microdegree no.2 Lead:** Martin Ejeagwu
 * **Microdegree no.3 Lead:** Eveli Karner
 * **Microdegree no.4 Lead:** Merle Liisu Lindma
-* **EBS IT Support Helpdesk:** [it@ebs.ee](mailto:it@ebs.ee) *(For EBS official school emails, and access)*
-
-
+* **EBS IT Support Helpdesk:** For EBS official school emails, and access: 
 
 ---
-*Page maintained by the Digital Product Management MBA Team. Last updated: June 2026.*
-
+*Page maintained by the Digital Product Management MBA Team. Last updated: 25 June 2026.*
