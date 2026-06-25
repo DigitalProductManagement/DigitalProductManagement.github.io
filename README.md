@@ -15,8 +15,8 @@ Welcome to the central information hub of the EBS Digital Product Management MBA
 ## ⚡ Quick Access Dashboard
 *Save time. Access your daily operational layers instantly.*
 
-| 🖥️ Learning & Grading                                                                         | 📅 Master Timetable | 💬 Real-Time Chat                                                                                           |
-|:----------------------------------------------------------------------------------------------| :--- |:------------------------------------------------------------------------------------------------------------|
+| 🖥️ Learning & Grading                                                                         | 📅 Master Timetable                                                                                                                             | 💬 Real-Time Chat                                                                                           |
+|:----------------------------------------------------------------------------------------------|:------------------------------------------------------------------------------------------------------------------------------------------------|:------------------------------------------------------------------------------------------------------------|
 | [**Canvas LMS**](https://ebs.instructure.com/) <br> *Official syllabus, assignments, grades.* | [**TimeEdit Schedule**](https://cloud.timeedit.net/ebs/web/public1/ri167wYQ57YZ55QYwZW7161Xy15QQ.html) <br> *Live updates on rooms, and dates.* | [**Discord Server**] <br> *Daily chats, standups and peer help.* <br> *(Lin sent in your onboarding email)* |
 
 ---
